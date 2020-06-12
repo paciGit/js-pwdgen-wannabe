@@ -1,0 +1,33 @@
+body {
+  background: url(../img/sfondo.jpg);
+  background-size: cover;
+  background-color: #404040;
+}
+
+.general {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container_password {
+  text-align: center;
+  background: #404040;
+  opacity: 0.6;
+  border-radius: 65px;
+  padding: 0 30px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+p {
+  color: #ff8c1a;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
